@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/coinedWordData.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/emotionData.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/Gamsung 1-1.txt" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/1-1.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/1-2.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/1-3.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/2-1.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/2-2.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/3-1.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/3-2.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/3-3.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/3-4.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/3-5.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/4-1.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/4-2.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/4-3.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/5-1.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/5-2.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/dataset/5-3.csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/russelData 원본 (한글만 남겨놓기 위해 백업해놈).csv" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/wordcloud/감정단어사전 647개 스테밍.csv" charset="EUC-KR" />
+  </component>
+</project>
